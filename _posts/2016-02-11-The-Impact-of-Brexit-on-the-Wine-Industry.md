@@ -4,8 +4,8 @@ title:  "The Impact of Brexit on the Wine Industry"
 date:   2016-02-11
 tags: [UK]
 excerpt: "In the case of Brexit being victorious tomorrow, the economic status quo that the UK has maintained for quite some time will change, and along changes there are misfortunes and opportunities." 
-<!-- img: images/francis33.jpg -->
 img: images/UK_EU_Flags_2.jpg
+img-s: images/UK_EU_Flags_2-s.jpg
 minread: 5
 lang: en
 author: Gaspar Lobato Grinberg

@@ -3,10 +3,11 @@ layout: post
 title:  "Design Thinking"
 date:   2016-02-07
 tags: [research]
-<!-- img: images/francis33.jpg -->
 img: images/vineyard_goodC2_2.jpg
+img-s: images/vineyard_goodC2_2-s.jpg
 minread: 3
 author: Gaspar Lobato Grinberg
+excerpt: "Design Thinking is a term that is often heard in academics environments, but its also what its behind products like the iPod and iPad. It is an iterative process for creating new and relevant solutions or new opportunities through a human-driven analysis."
 ---
 
 <span class="dropcap">D</span>esign Thinking is a term that is often heard in academics environments, but its also what its behind products like the iPod and iPad. It is an iterative process for creating new and relevant solutions or new opportunities through a human-driven analysis. 

@@ -4,8 +4,8 @@ title:  "Historia de la Industria Vitivinícola Argentina y su Comercio Exterior
 date:   2016-07-17
 tags: [Argentina]
 excerpt: "Ante una fecha tan especial como el Bicentenario de la declaración de Independencia Argentina, es una buena ocasión para recordar los caminos transitados en la industria vitivinícola; ya que para entender el presente y proyectar el futuro, es necesario saber nuestro pasado."
-<!-- img: images/francis33.jpg -->
-img: images/Publicidad-2-Vino-Panquegua.jpg 
+img: images/pub.jpg 
+img-s: images/pub-s.jpg 
 minread: 5
 lang: es
 author: Gaspar Lobato Grinberg
@@ -13,55 +13,55 @@ author: Gaspar Lobato Grinberg
 
 <span class="dropcap">L</span>a historia de la Vitivinicultura Argentina se remonta a más de 400 años, cuando los primeros especímenes de ‘vitis vinifera’ fueron traídos a Peru, Chile y Argentina por los colonizadores españoles. Una vez en el territorio argentino, las primeras cepas se cultivaron en Santiago del Estero donde se realizaron los primeros vinos nacionales. Sin embargo, las óptimas condiciones climáticas y de suelo de la región andina, hizo que la vitivinicultura tenga un amplio y acelerado desarrollo en el centro-oeste del país, la región de Cuyo.
 
-Decades later, in the XVII century, the provinces of Cuyo, especially Mendoza and San Juan, had already an important wine production, and became suppliers to new markets such as the regions of Buenos Aires, Paraguay and northern Argentina.
+Décadas más tarde, en el siglo XVII, las provincias de Cuyo, especialmente Mendoza y San Juan, contaban con una importante producción de vinos, lo cual generó que se abasteciera a nuevos mercados como las regiones de Buenos Aires, norte argentino y Paraguay.
 
-### Growth in the newborn Argentine Republic
+### Crecimiento en la nueva República Argentina
 
-The wine was artisanal produced for nearly three centuries, until 1827, eleven years after independence, when the first industrial winery of Argentina, the Panquegua winery, was built and registered in the province of Mendoza. During this time, in Europe, General San Martin, (Argentine founding father), used to point out that French wine could not match the wines of Mendoza.
+El vino se produjo artesanalmente por casi tres siglos, hasta que en 1827, once años después de la independencia, se construyó la primera bodega industrial registrada en Argentina, la Bodega Panquegua, ubicada en la provincia de Mendoza. A su vez, durante el mismo tiempo, en Europa, el General San Martin, acostumbraba a señalar que ningún vino francés podía igualar a los vinos de Mendoza.
 
 <span class="imgleft">
 ![alt text](images/pouget.jpg "Francis Mallmann")
 </span>
 
-In 1852, French agronomist Michel Aimé Pouget was the first to introduce French grape varieties into the country, boosting its development and teaching new agricultural scientific methods. This was an important period of transformation and modernization for the wine industry in Argentina.
+En 1852, el ingeniero agrónomo francés Michel Aimé Pouget fue el primero en introducir cepajes franceses al país, encargándose de propagar su cultivo y enseñar nuevos métodos científicos. Esta fue una época de transformación y modernización de la actividad vitivinícola en Cuyo.
 
-Soon after, Pouget founded the first agricultural School of Argentina in Mendoza. It provided training and development allowing the transformation of Cuyo into becoming the country’s most important wine region. In addition, the arrival of waves of European immigrants gave a boost to the industry, bringing new grapevine varieties, new cultivation techniques and innovation in oenological practices.
+Al poco tiempo, Pouget fundó la primera Escuela de Agricultura de la República Argentina, permitiendo la transformación de Cuyo en la zona vinícola más importante del país, brindando capacitación y perfeccionamiento. A su vez, la llegada de inmigrantes dio un gran impulso a la industria, trayendo nuevas variedades de vid, nuevas técnicas de cultivo e innovación en prácticas enológicas.
 
-This industry momentum was further strengthened and boosted by the inauguration, in 1884, of the railroad connecting Mendoza and San Juan with the nation’s capital city Buenos Aires. The Cuyo region then took on the role of producers of wine to supply the domestic market and, very marginally, the international one, through the port of Buenos Aires.
+Este impulso de la industria se vio fortalecido y dinamizado con la instalación, en 1884, del ferrocarril que conectaba Mendoza y San Juan con Buenos Aires. Las provincias cuyanas asumieron el papel de proveedoras de vino para abastecer al mercado nacional y, muy marginalmente, al internacional a través del puerto de Buenos Aires.
 
 <span class="imgleft">
 ![alt text](images/giol-b.jpg "Francis Mallmann")
 </span>
 
-In the early twentieth century, the industry grew rapidly. During the celebration of the centenary of the Argentine May Revolution in 1910, the winery ‘Colina de Oro’ (Ex-Bodega Giol) proclaimed to be the world’s largest winery at the time.
+En los comienzos del siglo XX, la industria creció rápidamente. Durante el centenario de la Revolución de Mayo, en 1910, la bodega ‘Colina de Oro’ (Ex-Bodega Giol) se proclamó en ser la bodega más grande del mundo de la época.
 
-After the First World War, in 1919, Argentine wines acquired international notoriety for its increasing quality and the excellent results of the European vine stocks in those lands and climates. However, since its beginnings, Argentina never exported as its main objective, but rather the industry grew based on the consumption of the domestic market. During this period, Argentine producers leaned to export only to sell their occasional surpluses in production.
+Finalizada la Primera Guerra Mundial, en 1919, los vinos argentinos adquieren notoriedad internacional ya que su calidad iba en gran ascenso, y las cepas europeas daban excelentes resultados en estas tierras y climas. Sin embargo, desde sus comienzos, Argentina nunca exportó como objetivo principal, sino que la industria se desarrolló en función del mercado interno y por mucho tiempo solo se inclinó a la exportación para la venta de excedentes de producción.
 
 <span class="imgleft">
 ![alt text](images/trole.jpg "Francis Mallmann")
 </span>
 
-An anecdote of the exports in the 1980’s is the first shipment of Argentine wine to Russia. At the time, Argentina and the URSS made commercial agreements where Argentina would export wine in exchange of Soviet trolleybuses, which transited the streets of Mendoza city for several decades until they were withdrawn from circulation in 2009 and sold to another Argentine province.
+Una anécdota de las exportaciones en la década de los 80, fueron las primeras exportaciones de vino argentino a Rusia. Para esa oportunidad, la URSS y Argentina crearon un convenio de canje, en el cual se exportó vino a cambio de los trolebuses soviéticos marca ZIU, que transitaron las calles de la capital mendocina por varias décadas hasta que fueron retirados de circulación en el 2009 y vendidos a Córdoba.
 
-### Decrease in consumption and changes in the industry
+### Baja de consumo y cambios estructurales en la industria
 
-Since the 1970’s and 1980’s, the Argentine wine industry had to endure recurring mismatches between production and consumption. This situation was intensified over time with a steep decrease in wine consumption until 2010.
+Desde la década de los setenta y ochenta, la vitivinicultura argentina debió soportar recurrentes desajustes entre producción y consumo, que se fueron intensificando con el transcurso del tiempo, con un descenso del consumo casi continuo hasta el 2010.
 
 <span class="imgcenterwide"> 
 ![alt text](images/consumo.png "Francis Mallmann") 
 </span>
 
-Between late 1980’s and early 1990’s a new period in Argentina’s wine industry begun. The national economy was integrated into the international markets and new medium and small productions of high quality wine emerged in the industry. Its wines were intended for both the national and international markets. These changes in the industry favored the recognition and positioning of Argentine wines across the global markets.
+Entre fines de 1980 y principios de 1990 se inició una nueva etapa en la vitivinicultura argentina. La economía nacional se integró a los mercados internacionales, y surgieron medianas y pequeñas producciones de vino de alta calidad, tanto para el consumo interno como para la exportación. Estos cambios favorecieron al reconocimiento y posicionamiento de los vinos argentinos en el mercado internacional.
 
-This increase in exports helped offset the decline of domestic consumption and it was an incentive for the development of the industry as a competitive exporter. Wine exports are an incremental business model, because it generates additional benefits for the rest of the wineries with potential to sell in foreign markets. This is due to the degression in positioning and promotion costs of Argentine wines in those foreign markets with each commercial transaction made.
+Este incremento en las exportaciones permitió compensar la disminución del consumo interno y fue un incentivo para el desarrollo de la industria como un exportador muy competitivo. A su vez, la exportación de vino se caracteriza por ser un modelo comercial incremental, ya que cada exportación genera beneficios adicionales para el resto de las bodegas con potencial para vender en el extranjero. Esto se debe al carácter decreciente del costo de penetración en el mercado externo, gracias a un mayor conocimiento que se genera de los vinos argentinos.
 
-Along with the expansion of Argentine wines in the world, there was an exponential growth of local, national, and international tourism in the wine regions of Argentina. This boom helped boost regional economies like gastronomy and hospitality which in many cases are pillars of local economies and main sources of jobs for their communities along with the winemaking activities.
+Junto a la expansión de los vinos argentinos en el mundo, hubo un crecimiento exponencial del turismo local, nacional e internacional en las zonas vitivinícolas en Argentina. Este impulso ayudó a las economías regionales de turismo, gastronomía y hotelería que actualmente son engranajes económicos y de trabajo locales.
 
-### 200 Years Later
+### 200 Años Después
 
-At the time of the Spanish colonization, the Argentine economic model was based on the export of raw materials. After the independence however, a different economic model was desired by many, one with an impetus in the production and export of value-added goods instead of just raw materials. Today, 200 years later, Argentina still depends economically on the export of raw materials. Nevertheless, the wine industry is a successful example and role model for the country’s businesses in terms of sustainable development of value-added products with a trade surplus.
+En la época de la colonización, el modelo de la economía argentina consistió en la exportación de materias primas, pero desde los comienzos de nuestra independencia se buscó modificar este modelo hacia uno de exportación de productos con valor agregado. 200 años después, Argentina continua dependiendo económicamente de la exportación de materias primas. Sin embargo, la industria vitivinícola es un ejemplo exitoso para el país en cuanto al desarrollo sustentable de productos con valor agregado y una balanza de superávit comercial, el cual ofrece al resto de la agroindustria un modelo a imitar.
 
-The objectives of the industry for the year 2020 are to increase the export revenues to 2000 million USD per year and to increase the international wine market share to 10%. This objectives could be achieved by integrating small and medium players in the industry, positioning high quality Argentine wines in the global markets, and increasing the consumption in the national market against other competitive drinks.
+Las expectativas a futuro de la industria es alcanzar la meta de los 2.000 millones de dólares en ingresos por exportaciones y una participación del 10% del mercado internacional de vinos en el año 2020. Estos objetivos se alcanzarán integrando a los pequeños y medianos productores en la industria, posicionando los vinos argentinos de alta calidad en el exterior e impulsando el mercado nacional.
 
 <div class="divider">.&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.</div>
 
@@ -71,7 +71,7 @@ The objectives of the industry for the year 2020 are to increase the export reve
 ![alt text](images/gaspar_web_19.png "Francis Mallmann") 
 </span>
 
-*I focus on the international business side of the wine industry. I spend my time meeting stakeholders from all the different areas of the trade and I write for publications like ARN Diario and Altman & Berg*
+*Me especializo en el área comercial internacional de la industria del vino. Graduado en Francia con una Licenciatura en Comercio Internacional, actualmente me dedico a explorar la industria, a conocer las personas que la llevan adelante y a escribir para ARN Diario y Altman & Berg, entre otras publicaciones.*
 
 <h3>Comparte este Artículo:</h3>
 <div class="addthis_inline_share_toolbox"></div>

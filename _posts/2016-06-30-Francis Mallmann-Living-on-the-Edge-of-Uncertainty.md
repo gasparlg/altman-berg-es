@@ -4,6 +4,7 @@ title:  "Francis Mallmann ‘Viviendo al borde de la Incertidumbre’"
 date:   2016-06-30
 tags: [Argentina]
 img: images/francis33333.jpg
+img-s: images/francis33333-s.jpg
 minread: 4
 lang: es
 excerpt: "Hace más de 40 años que Francis Mallmann, chef de renombre internacional, abría su primer restaurante en Bariloche. Hoy es reconocido por muchos de sus colegas como el mejor chef argentino, y entre los mejores chefs del mundo." 

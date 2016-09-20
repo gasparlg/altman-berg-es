@@ -4,8 +4,8 @@ title:  "Argentine Wines In The UK, The Category With The Highest Growth"
 date:   2016-02-09
 tags: [UK]
 excerpt: "Argentine wine has grown more than any other country in the last 3 years. This was reflected in the 2016 London Wine Fair." 
-<!-- img: images/francis33.jpg -->
 img: images/london_arn_1_2.jpg 
+img-s: images/london_arn_1_2-s.jpg 
 minread: 6
 author: Gaspar Lobato Grinberg
 ---

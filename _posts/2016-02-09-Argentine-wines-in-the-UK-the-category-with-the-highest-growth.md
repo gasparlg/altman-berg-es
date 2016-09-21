@@ -1,42 +1,48 @@
 ---
 layout: post 
-title:  "Argentine Wines In The UK, The Category With The Highest Growth"
+title:  "Vinos Argentinos en Londres, la Categoría con Mayor Crecimiento"
 date:   2016-02-09
 tags: [UK]
-excerpt: "Argentine wine has grown more than any other country in the last 3 years. This was reflected in the 2016 London Wine Fair." 
+excerpt: "Argentina es la categoría de vino que más ha crecido en el Reino Unido en los últimos 3 años. Esta situación se reflejó este año en la Feria de vinos de Londres, donde ARN tuvo la oportunidad de hablar con las personas que están llevando adelante este crecimiento." 
 img: images/london_arn_1_2.jpg 
 img-s: images/london_arn_1_2-s.jpg 
 minread: 6
 author: Gaspar Lobato Grinberg
 ---
 
-<span class="dropcap">L</span>ast week I had the privilege of being the only journalist from Argentina in the London Wine Fair which is the biggest and most important meeting for the industry in the UK. This year the fair received more than 10.000 people who met 700 exhibitors and more than 10.000 different wines from most of the wine producing countries in the world. Exhibitors include importers and distributors, wineries, country stands (such as Wines of Argentina) and service firms.
+*<span class="dropcap">A</span>rgentina es la categoría de vino que más ha crecido en el Reino Unido en los últimos 3 años. Esta situación se reflejó este año en la Feria de vinos de Londres, donde ARN tuvo la oportunidad de hablar con las personas que están llevando adelante este crecimiento.*
 
-### UK market for the Argentine wine industry
+La semana pasada ARN Diario tuvo el privilegio de ser el único medio argentino en la Feria de Vino de Londres (London Wine Fair), la cual es el encuentro de la industria vitivinícola más grande e importante del Reino Unido. En esta ocasión más de 10.000 personas relacionadas con la industria se reunieron por 3 días junto a 700 exhibidores y más de 10.000 vinos representando la mayoría de los países productores del mundo.
 
-Based on 2014 statistics from the INV (Argentinian National Wine Institute), the UK is the third most important export destination of Argentina receiving almost 10% of all wine exports. Andrew Maidment, Europe and Asia Manager for ‘Wines of Argentina’, explains the current situation, “Argentine wine has been the fastest growing category in the UK for the last 3 years, we have grown in double digit growth for consecutive 12 quarters now. If you put this into perspective, the UK wine market has fallen 2% for the last two years and argentine wine has rising by almost 65%. So its very exciting times for Argentina in the UK now.”
+La feria está dirigida especialmente a los pequeños y grandes compradores de vino para el mercado británico, siendo esta feria la ocasión donde se realiza la mayoría de las ventas anuales para muchas empresas de la industria. En ella participan importadores y distribuidores, bodegas, las representaciones de diferentes países productores como “Wines of Argentina” (“Vinos de Argentina”) y empresas de servicios especializadas en la industria.
+
+### Importancia del Reino Unido para la industria vitivinícola
+
+Según las estadísticas publicadas por el Instituto Nacional de Vitivinicultura (INV) del 2014, Reino Unido es el tercer mercado internacional más grande para los vinos argentinos recibiendo casi un 10% del total de las exportaciones. Andrew Maidment, Manager de ‘Wines of Argentina’ para Europa y Asia, explica la situación actual, “El vino Argentino ha sido la categoría que más ha crecido en el Reino Unido en los últimos 3 años, hemos tenido una tasa de crecimiento de dos dígitos en los últimos 12 cuatrimestres. Para poner estos datos en perspectiva, la industria del vino en el Reino Unido ha caído 2% en los últimos 2 años y el vino argentino se ha incrementado en un 65%. Estamos viviendo momentos muy buenos para el vino Argentino en el Reino Unido.”
 
 <span class="imgcenterwide"> 
 ![alt text](images/london_arn_3.jpg "Francis Mallmann") 
 </span>
 
-In the last years the main specialized distributors of Argentine wine have had an annual growth of 20–40%, and they are planning to continue this rate of growth in the following years. Sophie Jump, Director of ‘Jump Start Wine Solutions’, explains the British wine market, “The UK is an important market because is a long term market and a growing market. The main issue that I see is that it is a market that needs patience, investments particularly in terms of time.”
+En los últimos años los principales distribuidores especializados en vinos argentinos han tenido una tasa de crecimiento entre el 20% y 40% anual, y todos tienen planes de continuar este crecimiento en los próximos años. Sophie Jump, directora de ‘Jump Start Wine Solutions’, explica el mercado de vino británico, “El Reino Unido es un mercado muy importante porque es un mercado a largo plazo y un mercado que crece. Pero a su vez es un mercado que demanda paciencia e inversiones particularmente de tiempo.”
 
-About the future of Argentine wine in the UK, Solano Peña-Lenzi, Director of ‘Hispamerchants’, tells, “We have to capitalize the fact we got into the premium category and we have to maintain that.” He also describes how argentine wineries have improved in the last years, “They have learned to make better wines and they have been open to listen the feedback and reactions of the markets. In addition to this it is also important to focus in promoting the different regions and subregions of Argentina.”
+En cuanto al futuro del vino argentino en el Reino Unido, Solano Peña-Lenzi, director de ‘Hispamerchants’, comenta “Tenemos que capitalizar el hecho de que entramos en la categoría premium y tenemos que mantener eso. Seria una pena si el vino argentino entrara al mercado solamente como un producto económico, ya que la prueba está del otro lado de los Andes; Chile entró en el Reino Unido en una categoría económica barata, lo hizo muy bien, pero ahora le cuesta muchísimo subir de categoría.”
 
-### Local wineries present in the fair
+Peña-Lenzi también menciona como las bodegas argentinas han mejorado en los últimos años, “Han aprendido a hacer mejores vinos y han estado predispuestos a escuchar la respuesta y reacciones de los mercados. Además de esto también es necesario enfocarse en promocionar las diferentes regiones y sub-regiones dentro de Argentina.”
 
-For the winery ‘Los Haroldos’, the UK is one of its 3 most important international markets, taking in account that they export to more than 45 countries. Franco Falasco, representing the winery in the fair, commented that their international markets sales have improved exponentially thanks to the investment in a team of 10 export managers around the world.” But he also expressed the high state of competitiveness in the main international markets, “China, United States, United Kingdom and Brazil are very competitive markets and it would be good to research other countries in an earlier stage of wine commercialization.”
+### Representantes locales
+
+Para la bodega Los Haroldos, el Reino Unido es uno de los tres mercados internacionales más importantes, teniendo en cuenta que la bodega exporta a más de 45 países en el mundo. Franco Falasco, representante de la bodega en la feria, comentó que las ventas en el exterior aumentaron exponencialmente gracias a la inversión en una estructura comercial y fuerza de ventas en el exterior. Sin embrago hizo hincapié en el alto estado de competitividad en los principales mercados internacionales, “Los mercados de China, Estados Unidos, Reino Unido y Brasil están muy avasallados y concentrados comercialmente ya que hay mucha competitividad, y seria bueno investigar otros mercados que estén todavía en una etapa más temprana con respecto a la comercialización del vino.”
 
 <span class="imgcenterwide"> 
 ![alt text](images/london_arn_2.jpg "Francis Mallmann") 
 </span>
 
-Another side of exporting Argentina’s wine industry are the opportunities of foreign investment into the country. During the fair I had the opportunity to meet Kathy Byrne, investor in the estate and lodge ‘Alpasión’ with 85 hectares (210 acres) in the Uco Valley and with plans of building their own winery. The story of ‘Alpasión’ starts in 2009 with a group of friends who decided to partner to produce and commercialize their own wine. Having the option to invest in any region of the world they chose Mendoza in Argentina and today they are already selling their wines in the main international markets. Mendoza, along with the other wine regions of Argentina, having a great history and experience in wine making could work to foster foreign investment in the region and as a result create new job opportunities and a higher development of the industry.
+Otro aspecto de la exportación de la industria vitivinícola local hacia el mundo son las oportunidades de inversión en la provincia. Durante la feria tuve la oportunidad de conversar con Kathy Byrne, inversora en la finca y hotel “Alpasión” con 85 hectáreas en el Valle de Uco y con una bodega propia en planes de construcción. La historia de Alpasión comienza en 2009 con un grupo de amigos que decidieron asociarse para producir y comercializar su propio vino. Teniendo la opción de comprar terrenos y construir la bodega en cualquier parte del mundo, eligieron Mendoza y actualmente ya están comercializando sus vinos en los principales mercados internacionales. La zona Este con una gran historia y experiencia en la producción vitivinícola podría trabajar para fomentar la inversión extranjera en la zona y así recibir grandes inversiones que vienen acompañadas con nuevas fuentes de trabajo locales.
 
-Laurie Webster, CEO of ‘Las Bodegas’, explains what they look for in a winery for when deciding to import and distribute new wines in the UK, “We look for flexibility, we look for an understanding that is very important to manage different sectors of the market in different ways. We also look for innovation, we look for supply partners who don’t want to stand still, they want to keep progressing and experimenting because Argentina is changing rapidly in wine terms, is improving immensely. Every year the wines become better.”
+Laurie Webster, Director de “Las Bodegas”, cuenta qué es lo que buscan cuando tienen que elegir una bodega para representar, “Nosotros buscamos flexibilidad, que la bodega sepa que es muy importante satisfacer diferentes sectores del mercado de diferentes maneras. También buscamos innovación, buscamos socios que no se queden quietos, que quieran seguir progresando y experimentando porque Argentina cambia rápidamente en términos de vino, todos los años las producciones son mejores.”
 
-Argentine wines are on the rise in the United Kingdom and the future prospects are as positive. It is important that all parties of the industry work towards the same objectives and take advantage of this growth to establish Argentine wine in the minds of British consumers.
+Los vinos argentinos están en pleno auge en el Reino Unido y las perspectivas a futuro son igual de positivas. Es importante que todas las partes de la industria sepan centrarse en los mismos objetivos y aprovechar este crecimiento para instalar definitivamente el vino argentino en la mente de los consumidores británicos.
 
 <div class="divider">.&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.</div>
 
@@ -46,7 +52,7 @@ Argentine wines are on the rise in the United Kingdom and the future prospects a
 ![alt text](images/gaspar_web_19.png "Francis Mallmann") 
 </span>
 
-I focus on the international business side of the wine industry. I spend my time meeting stakeholders from all the different areas of the trade and I write for publications like ARN Diario and Altman & Berg.
+*Me especializo en el área comercial internacional de la industria del vino. Graduado en Francia con una Licenciatura en Comercio Internacional, actualmente me dedico a explorar la industria, a conocer las personas que la llevan adelante y a escribir para ARN Diario y Altman & Berg, entre otras publicaciones.*
 
 <h3>Comparte este Artículo:</h3>
 <div class="addthis_inline_share_toolbox"></div>

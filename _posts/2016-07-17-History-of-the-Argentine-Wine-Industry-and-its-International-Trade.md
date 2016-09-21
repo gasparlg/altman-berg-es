@@ -9,6 +9,7 @@ img-s: images/pub-s.jpg
 minread: 5
 lang: es
 author: Gaspar Lobato Grinberg
+month: Julio
 ---
 
 <span class="dropcap">L</span>a historia de la Vitivinicultura Argentina se remonta a más de 400 años, cuando los primeros especímenes de ‘vitis vinifera’ fueron traídos a Peru, Chile y Argentina por los colonizadores españoles. Una vez en el territorio argentino, las primeras cepas se cultivaron en Santiago del Estero donde se realizaron los primeros vinos nacionales. Sin embargo, las óptimas condiciones climáticas y de suelo de la región andina, hizo que la vitivinicultura tenga un amplio y acelerado desarrollo en el centro-oeste del país, la región de Cuyo.

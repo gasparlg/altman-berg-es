@@ -54,7 +54,7 @@ page-type: post
                 <p>Posted in {% for tag in page.tags %}<a href="{{site.baseurl}}tags/index.html#{{ tag | cgi_escape }}" title="Pages tagged {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
                 -->
                     <section class="post-links" class="textmargin">
-                        <h3>Read more:</h3>
+                        <h3>Otros artículos:</h3>
                         {% if page.previous.url %}
                         <p class="prevLink">• <a class="previous" href="{{page.previous.url}}">{{page.previous.title}}</a></p>
                         {% endif %}

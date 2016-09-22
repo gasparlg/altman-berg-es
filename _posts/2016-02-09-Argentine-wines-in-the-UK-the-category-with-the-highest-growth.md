@@ -2,7 +2,7 @@
 layout: post 
 title:  "Vinos Argentinos en Londres, la Categoría con Mayor Crecimiento"
 date:   2016-02-09
-tags: [UK]
+tags: [Reino Unido]
 excerpt: "Argentina es la categoría de vino que más ha crecido en el Reino Unido en los últimos 3 años. Esta situación se reflejó este año en la Feria de vinos de Londres, donde ARN tuvo la oportunidad de hablar con las personas que están llevando adelante este crecimiento." 
 img: images/london_arn_1_2.jpg 
 img-s: images/london_arn_1_2-s.jpg 

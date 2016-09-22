@@ -2,7 +2,7 @@
 layout: post
 title:  "Storytelling In Business"
 date:   2016-02-05
-tags: [communication]
+tags: 
 img: images/vineyard_goodC2_2.jpg
 img-s: images/vineyard_goodC2_2-s.jpg
 minread: 4

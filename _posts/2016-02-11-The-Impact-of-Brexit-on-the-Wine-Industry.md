@@ -2,7 +2,7 @@
 layout: post
 title:  "Posibles Impactos del Referéndum Británico en la Industria del Vino"
 date:   2016-02-11
-tags: [UK]
+tags: [Reino Unido]
 excerpt: "En el caso que ‘Brexit’ obtenga mayoría en el referéndum, el statu quo económico que el Reino Unido ha mantenido en las últimas décadas va a cambiar, y junto a cambios hay oportunidades y desventajas. Además de describir la situación actual pre-referéndum, analizaré quienes serían los ganadores y perdedores en la industria en el caso de una separación." 
 img: images/UK_EU_Flags_2.jpg
 img-s: images/UK_EU_Flags_2-s.jpg

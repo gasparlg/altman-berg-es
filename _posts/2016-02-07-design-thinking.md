@@ -2,7 +2,7 @@
 layout: post
 title:  "Design Thinking"
 date:   2016-02-07
-tags: [research]
+tags: 
 img: images/vineyard_goodC2_2.jpg
 img-s: images/vineyard_goodC2_2-s.jpg
 minread: 3

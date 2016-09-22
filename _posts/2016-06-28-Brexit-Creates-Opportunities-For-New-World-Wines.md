@@ -2,7 +2,7 @@
 layout: post 
 title:  "‘Brexit’ Crea Oportunidades Para Los Vinos Argentinos"
 date:   2016-06-28
-tags: [UK]
+tags: [Reino Unido]
 img: images/UK_EU_Flags_Brexit_2.jpg
 img-s: images/UK_EU_Flags_Brexit_2-s.jpg
 excerpt: "La separación del Reino Unido de la Unión Europea ha generado un tumulto económico global y dudas en nuestro país. Mientras esta situación afecta a corto plazo las exportaciones, Argentina podría aprovechar esta crisis para crecer en un mediano y largo plazo." 
